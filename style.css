@@ -57,7 +57,5 @@ li {
     margin-bottom: 3px;
 }
 
-/* Page Break Utility Class */
-.page-break {
-    page-break-before: always;
-}
+/* Specific tweak for the contact info block at the top if possible,
+   otherwise it just inherits standard p styling which is fine. */

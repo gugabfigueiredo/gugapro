@@ -24,7 +24,7 @@ deps:
 	}
 
 pdf:
-	pandoc README.md -o cv.pdf \
+	pandoc $(f) -o $(o) \
 		--css=style.css \
 		--pdf-engine=wkhtmltopdf \
 		--pdf-engine-opt=--enable-local-file-access \
