@@ -4,3 +4,5 @@
 # Allow specific files
 !README.md
 !Makefile
+!.gitignore
+!style.css
