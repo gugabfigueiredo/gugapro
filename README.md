@@ -9,11 +9,13 @@ Copenhagen, Denmark | gugabfigueiredo@gmail.com | REDACTED ([Whatsapp](https://R
 ### Senior Software Engineer, Dreamdata.io - 09/2023 – Present – Copenhagen, Denmark
 Dreamdata is a B2B revenue attribution platform that connects, analyzes, and visualizes customer journey data to help businesses optimize their marketing and sales efforts.
 
-* Senior Engineer on the Sources & Destinations team, responsible for the integration pipeline responsible for connecting with marketing platforms for fetching and pushing enriched marketing data to enable smarter marketing attributions and activation.
+* Senior Engineer on the Sources & Destinations team, responsible for the integration pipeline, connecting with customers marketing platforms, and enriching marketing data to enable smarter attributions and activations cycles.
 
-* Assisted on the redesigning and maintenance of the main integration channel applications, optimizing data traffic for syncing and improving automation and self-service customization processes for customers.
+* Assisted on the design and maintenance of integration channel applications, optimizing data traffic, and improving automation and self-service customization processes for customers.
   
-* Main stack: Golang, Python, Kubernetes, Temporal, BigQuery, Postgresql, GCP, Agentic Code Assist
+* Leveraged agentic coding workflows (Claude, Gemini) to plan and execute migrations and refactorings, develop entirely new solutions, and consistently improve output quality and delivery throughput.
+
+* Main stack: Golang, Python, Kubernetes, Temporal, BigQuery, Postgresql, GCP
 
 ### Software Engineer, NewFire Global Partners - 02/2023 – 07/2023 – Rio de Janeiro, Rio de Janeiro – Brazil
 Newfire Global Partners is a custom software development company. Partnering with innovative companies to de-risk operations and help solve the world’s toughest problems.

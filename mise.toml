@@ -1,0 +1,11 @@
+[tools]
+pandoc = "latest"
+
+[tasks.deps]
+description = "Install system dependencies"
+run = "command -v wkhtmltopdf >/dev/null 2>&1 || paru -S --noconfirm wkhtmltopdf-bin"
+
+[tasks.pdf]
+description = "Generate PDF from README.md"
+depends = ["deps"]
+run = "pandoc README.md -o Luiz-Gustavo-Figueiredo-CV.pdf --css=style.css --pdf-engine=wkhtmltopdf --pdf-engine-opt=--enable-local-file-access --metadata title=''"
