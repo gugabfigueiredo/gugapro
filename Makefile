@@ -1,6 +1,6 @@
 .PHONY: all deps pdf
 
-all: deps pdf
+run: deps pdf
 
 deps:
 	@echo "Checking dependencies..."
