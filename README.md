@@ -37,7 +37,6 @@ Bemobi Mobile Tech S.A is a Brazilian company and leader in software development
   
 * Main stack was Golang, Postgresql, and React.js. All deployed on AWS Cloud with automated CI/CD on ECR/ECS and Amplify. Currently experimenting with AWS Terraform for cloud infrastructure.
 
-<div class="page-break"></div>
 ## EDUCATION AND CERTIFICATES
 
 ### 2021 B.Tech. in Computational Systems, Universidade Estácio de Sá – UNESA
