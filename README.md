@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** | [LinkedIn](https://www.linkedin.com/in/gugabfigueiredo) | [GitHub](https://github.com/gugabfigueiredo)
 
-Copenhagen, Denmark | gugabfigueiredo@gmail.com | REDACTED ([Whatsapp](https://REDACTED))
+Copenhagen, Denmark | gugabfigueiredo@gmail.com
 
 ## WORK EXPERIENCE
 
