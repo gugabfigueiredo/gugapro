@@ -4,6 +4,7 @@
 
 Copenhagen, Denmark | gugabfigueiredo@gmail.com
 
+
 ## WORK EXPERIENCE
 
 ### Senior Software Engineer, Dreamdata.io - 09/2023 – Present – Copenhagen, Denmark
@@ -24,7 +25,7 @@ Newfire Global Partners is a custom software development company. Partnering wit
 
 * Took part in the on-boarding meetings to help match the needs of the customer development teams with the availability of NewFire development teams.
   
-* Main stack was Golang, Mongodb.
+* Main stack: Golang, Mongodb.
 
 ### Senior Software Developer, Bemobi Mobile Tech S.A. - 07/2019 – 01/2023 – Rio de Janeiro, Rio de Janeiro – Brazil
 Bemobi Mobile Tech S.A is a Brazilian company and leader in software development & IT services in the Telco and payments market.
@@ -35,7 +36,8 @@ Bemobi Mobile Tech S.A is a Brazilian company and leader in software development
   
 * Oversaw the design and implementation of an internal content management system for the team’s flagship application, improving production overall, facilitating content management and launch of new commercial  campaigns by the business team, and the development and maintenance of the application by the development team.
   
-* Main stack was Golang, Postgresql, and React.js. All deployed on AWS Cloud with automated CI/CD on ECR/ECS and Amplify. Currently experimenting with AWS Terraform for cloud infrastructure.
+* Main stack: Golang, Postgresql, and React.js. Deployed on AWS Cloud with automated CI/CD on ECR/ECS and Amplify. AWS Terraform setup for cloud infrastructure.
+
 
 ## EDUCATION AND CERTIFICATES
 
@@ -43,11 +45,12 @@ Bemobi Mobile Tech S.A is a Brazilian company and leader in software development
 
 
 ## TECHNICAL SKILLS
-(6+ years): Go, Python, JS, HTML, CSS, SQL
 
-(3+ years): Docker, Kubernetes, Django, AWS, GCP, TDD, DDD
+**Production**: Go, Python, SQL, JS, HTML, CSS, React.js
 
-(Studying): Bitcoin, Nostr
+**Professional**: Docker, Kubernetes, PostgreSQL, MongoDB, BigQuery, Temporal, AWS, GCP, Terraform, CI/CD
+
+**Exploring**: Bitcoin, Nostr
 
 
 ## LANGUAGES
